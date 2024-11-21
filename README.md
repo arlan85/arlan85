@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=isaac-lal)
+
+---
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,nodejs,express,nestjs,git,vscode,vercel)](https://skillicons.dev)
+
+<!-- STATS -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlan85&theme=transparent&hide_border=true)](https://github.com/arlan85/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arlan85&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide=issues,contribs&theme=transparent&hide_border=true&rank_icon=github)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arlan85&theme=transparent&hide_border=true)](https://git.io/streak-stats)
