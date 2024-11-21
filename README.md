@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,nestjs,git,vscode,vercel,vite,gcp)](https://skillicons.dev)
-[](https://skillicons.dev/icons?i=mongodb,gcp)]()
-[](https://skillicons.dev/icons?i=gcp,aws)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cs,react,nodejs,express,nestjs,git,vscode,visualstudio,vite)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,MySQL,postgres,redis)](sddsd)
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws)](asas)
 
 <!-- STATS -->
 
