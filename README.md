@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,nodejs,express,nestjs,git,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,nestjs,git,vscode,vercel,vite,gcp)](https://skillicons.dev)
+[](https://skillicons.dev/icons?i=mongodb,gcp)]()
+[](https://skillicons.dev/icons?i=gcp,aws)]()
 
 <!-- STATS -->
 
