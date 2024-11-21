@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there  I'm Arlan! 👋
 
 <!--
 **arlan85/arlan85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=arlan85)
+
+I'm a dedicated full-stack engineer with a strong focus on goals and results. My passion is building robust and scalable systems that make a difference. I'm committed to continuous learning and love diving into new technologies to expand my skill set.
+
+### 🌱 Lifelong Learner
+*Adaptable*: Quickly grasp new programming languages, frameworks, and tools.
+*Curious*: Stay updated with the latest industry trends and best practices.
+*Problem-Solver*: Enjoy dissecting complex challenges to create efficient solutions.
+
+### 🤝 Team Player
+*Collaborative*: Thrive in team environments where ideas and knowledge are shared.
+*Communicative*: Advocate for clear and open communication to enhance teamwork.
+*Supportive*: Believe in mentoring and learning from others to achieve collective success.
+
+### 💡 Let's Connect!
+
+I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to explore my repositories and reach out if you'd like to work together!
+
+
+---
+
+***“The only way to do great work is to love what you do.”*** — Steve Jobs
 
 ---
 
