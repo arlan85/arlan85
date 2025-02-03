@@ -31,7 +31,11 @@ I'm a dedicated full-stack engineer with a strong focus on goals and results. My
 
 ### 💡 Let's Connect!
 
-I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to explore my repositories and reach out if you'd like to work together!
+I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects! You can find me at the following locations:
+
+- [LinkedIn](https://www.linkedin.com/in/arlan-galvez)
+- [Email](mailto:galvezalonso@gmail.com)
+<!--  Download my CV -->
 
 
 ---
