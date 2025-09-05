@@ -44,6 +44,10 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 
 ---
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arlan85&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cs,react,nodejs,express,nestjs,git,vscode,visualstudio,vite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,redis)](sddsd)
