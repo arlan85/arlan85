@@ -44,16 +44,18 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 
 ---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arlan85&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cs,react,nodejs,express,nestjs,git,vscode,visualstudio,vite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,redis)](sddsd)
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws)](asas)
 
+
+
+### Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=arlan85&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
 <!-- STATS 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlan85&theme=transparent&hide_border=true)](https://github.com/arlan85/github-readme-stats)
