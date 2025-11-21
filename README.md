@@ -65,6 +65,6 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 ![Arlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlan85&hide_border=true&count_private=true&show=reviews,prs_merged&show_icons=true&theme=material-palenight&rank_icon=github)
 
 <!--![Arlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arlan85&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide=issues&theme=transparent&hide_border=true&rank_icon=github)
--->
+
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=arlan85&theme=tokyonight&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=arlan85&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats) -->
