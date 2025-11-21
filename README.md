@@ -61,7 +61,7 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlan85&theme=transparent&hide_border=true)](https://github.com/arlan85/github-readme-stats)
 
--->
+
 ![Arlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlan85&hide_border=true&count_private=true&show=reviews,prs_merged&show_icons=true&theme=material-palenight&rank_icon=github)
 
 <!--![Arlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arlan85&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide=issues&theme=transparent&hide_border=true&rank_icon=github)
