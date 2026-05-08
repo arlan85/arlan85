@@ -67,7 +67,7 @@ I focus on creating reusable infrastructure and standardized delivery processes 
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,redis,prisma,sequelize)](databases)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,circleci,githubactions)](devops)
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions)](devops)
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws)](cloud)
 
