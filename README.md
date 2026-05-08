@@ -1,40 +1,59 @@
 # Hi there,  I'm Arlan! 👋
-
-<!--
-**arlan85/arlan85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  
 ![Profile Views](https://komarev.com/ghpvc/?username=arlan85)
 
-I'm a dedicated full-stack engineer with a strong focus on goals and results. My passion is building robust and scalable systems that make a difference. I'm committed to continuous learning and love diving into new technologies to expand my skill set.
+### Senior Software Engineer | System Architect | Modernization Specialist
 
-### 🌱 Lifelong Learner
-*Adaptable*: Quickly grasp new programming languages, frameworks, and tools.
-*Curious*: Stay updated with the latest industry trends and best practices.
-*Problem-Solver*: Enjoy dissecting complex challenges to create efficient solutions.
+I am a Senior Software Engineer dedicated to building clean, resilient, and scalable systems. My expertise lies in modernizing critical web platforms, leading legacy-to-modern transitions, and designing integrations that power core business workflows. 
 
-### 🤝 Team Player
-*Collaborative*: Thrive in team environments where ideas and knowledge are shared.
-*Communicative*: Advocate for clear and open communication to enhance teamwork.
-*Supportive*: Believe in mentoring and learning from others to achieve collective success.
+I focus on creating reusable infrastructure and standardized delivery processes that enable engineering teams to move faster while maintaining high software quality.
 
-### 💡 Let's Connect!
+---
 
-I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects! You can find me at the following locations:
+### 🛠️ What I Bring to the Table
 
-- [LinkedIn](https://www.linkedin.com/in/arlan-galvez)
-- [Email](mailto:galvezalonso@gmail.com)
+*   **Legacy Modernization:** A maintainability-first approach to reducing technical debt and stabilizing aging platforms.
+*   **System Integration:** Designing and implementing robust architectures for complex cross-system communication.
+*   **Frontend Scalability:** Building reusable component libraries and design systems that ensure consistency across multiple products.
+*   **Reliability Mindset:** Deep commitment to code quality through comprehensive E2E/Unit testing and clean code principles.
+*   **AI-Assisted Engineering:** Implementing practical AI workflows to accelerate development cycles and boost team efficiency.
+
+### 🚀 Selected Impact
+
+*   **Platform Modernization:** Refactored a legacy web platform, successfully eliminating recurring build failures and deployment bottlenecks.
+*   **Progressive Migration:** Led a phased backend migration strategy that preserved full interoperability throughout the transition.
+*   **CI/CD Standardization:** Improved release consistency and speed by implementing unified CI/CD pipelines.
+*   **Reusable Infrastructure:** Architected and delivered core communication systems (Twilio/Zoom) leveraged across the entire product suite.
+*   **Critical Route Security:** Engineered end-to-end testing strategies for high-stakes user journeys to ensure zero-downtime reliability.
+
+<!-----
+
+### 🧰 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | `React`, `Next.js`, `TypeScript`, `Redux`, `TanStack Query`, `MUI`, `Vite` |
+| **Backend & APIs** | `Node.js`, `NestJS`, `Microservices`, `REST`, `GraphQL` |
+| **Data & ORM** | `Prisma`, `Sequelize`, `PostgreSQL`, `MongoDB` |
+| **Mobile** | `React Native` |
+| **Cloud & DevOps** | `Docker`, `CircleCI`, `Google Cloud Platform (GCP)`, `CI/CD` |
+| **Testing** | `Cypress`, `Playwright`, `Jest` |
+| **Communications** | `Twilio`, `Zoom API` |
+-->
+---
+
+### 🎯 Currently Focused On
+
+*   **Scalable Architectures:** Designing systems that remain maintainable as both the product and the team grow.
+*   **Delivery Automation:** Refining engineering standards to make reliability a default outcome of the AI integration process.
+*   **Scalable AI Architectures:** Designing the next generation of maintainable systems that are "AI-first" by default.
+
+---
+
+### 📫 Let's Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlan-galvez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galvezalonso@gmail.com)
 <!--  Download my CV -->
 
 
@@ -44,11 +63,13 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cs,react,nodejs,express,nestjs,git,vscode,visualstudio,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cs,react,nodejs,express,nestjs,git,vscode,visualstudio,vite,typescript)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,redis)](sddsd)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,redis,prisma,sequelize)](databases)
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,aws)](asas)
+[![My Skills](https://skillicons.dev/icons?i=docker,circleci)](devops)
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws)](cloud)
 
 
 
