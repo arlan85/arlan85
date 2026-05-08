@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer | System Architect | Modernization Specialist
 
-I am a Senior Software Engineer dedicated to building clean, resilient, and scalable systems. My expertise lies in modernizing critical web platforms, leading legacy-to-modern transitions, and designing integrations that power core business workflows. 
+I am a Senior Software Engineer dedicated to building clean, resilient, and scalable systems. My expertise lies in modernizing critical web platforms, leading legacy-to-modern transitions, and designing AI integrations that power core business workflows. 
 
 I focus on creating reusable infrastructure and standardized delivery processes that enable engineering teams to move faster while maintaining high software quality.
 
