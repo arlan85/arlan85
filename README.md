@@ -63,7 +63,7 @@ I focus on creating reusable infrastructure and standardized delivery processes 
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cs,react,nodejs,express,nestjs,git,vscode,visualstudio,vite,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cs,react,nodejs,express,nestjs,git,vscode,visualstudio,vite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,redis,prisma,sequelize)](databases)
 
